@@ -5,7 +5,9 @@
 - 📫 How to reach me ... stevemckee@outlook.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I played basketball against a Serial Killer once.....
-<img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/35e9c23d-fe16-4e07-a7b6-42cf8740a7fd" />
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/23fd3cf2-636d-4aad-ad5e-9d26e059444b" />
+
+
 
 
 <!---
