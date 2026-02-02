@@ -5,7 +5,7 @@
 - 📫 How to reach me ... stevemckee@outlook.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I played basketball against a Serial Killer once.....
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/8e673a7b-589a-4cc7-b144-471b80217302" />
+
 
 <!---
 Henchman33/Henchman33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
